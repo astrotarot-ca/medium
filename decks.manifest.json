@@ -1,0 +1,46 @@
+{
+    decks : [
+        {
+            name : "Astroracle",
+            lang : "en",
+            desc : "English version of an oracle deck of cards used to study astrology.",
+            author : "Seraf Dos Santos",
+            folder : "AO-EN"
+        },
+        {
+            name : "Astroracle",
+            lang : "fr",
+            desc : "French version of an oracle deck of cards used to study astrology.",
+            author : "Seraf Dos Santos",
+            folder : "AO-FR"
+        },
+        {
+            name : "CBD Tarot de Marseille",
+            lang : "en",
+            desc : "A modern copy of an original Conver 1760 Tarot de Marseille deck meticulously copied in electronic version under the supervision of the late Dr. Yoav Ben-Dov.",
+            author : "Seraf Dos Santos",
+            folder : "CBDTM-EN"
+        },
+        {
+            name : "Rider-Waite-Smith Tarot",
+            lang : "en",
+            desc : "Original drawings by Pamela Coleman Smith for the Rider-Waite-Smith tarot deck.",
+            author : "Seraf Dos Santos",
+            folder : "RWS-EN"
+        },
+        {
+            name : "Neutral Thoth Playing Cards",
+            lang : "zz",
+            desc : "Playing cards deck with astrological symbols as elaborated in the minor arcana of the Thoth Tarot of Aleister Crowley.",
+            author : "Seraf Dos Santos",
+            folder : "SSQ"
+        },
+        {
+            name : "Vulgar Thoth Playing Cards",
+            lang : "en",
+            desc : "Playing cards deck with astrological symbols and references as found in the minor arcana of the Thoth Tarot by Aleister Crowley.",
+            author : "Seraf Dos Santos",
+            folder : "SSQII-EN"
+        }
+    ]
+}

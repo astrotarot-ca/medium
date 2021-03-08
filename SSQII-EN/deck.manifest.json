@@ -1,0 +1,15 @@
+{
+    name : "SSQII",
+    lang : "en",
+    desc : "",
+    author : "Seraf Dos Santos",
+    compile_date : "00-00-0000",
+    dist : [
+        {
+            width_size : "300px",
+            folder : "w300px",
+            desc : "card images reduced to 300px width",
+            render_date: "00-00-0000"
+        }
+    ]    
+}
