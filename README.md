@@ -1,7 +1,7 @@
-# astrotarot-ca/medium
+# [astrotarot.ca/medium](https://astrotarot.ca/medium)
 The main astrotarot.ca asset repository.
 
-astrotarot-ca/medium contains the main image card decks used on astrotarot.ca. The following list is updated to reflect this repository.
+astrotarot.ca/medium contains the main image card decks used on astrotarot.ca. The following list is updated to reflect this repository.
 
 * Astroracle (English) (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
 * Astroracle (French) (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
