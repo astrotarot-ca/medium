@@ -9,6 +9,7 @@ astrotarot.ca/medium contains the main image card decks used on astrotarot.ca. T
 * Ouija Greek (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
 * Ouija Hebrew (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
 * Ouija Russian (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
+* ACBL - Playing Cards (Public Domain) : Playing cards images provided by the American Contract Bridge League.
 * Rider-Waite-Smith (Public Domain) : Original copies of the famous tarot deck drawn by Pamela Colman Smith.
 * SSQ (Neutral) (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
 * SSQII (English) (Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) : Original deck created by Serafim Dos Santos.
